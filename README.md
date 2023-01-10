@@ -1,4 +1,4 @@
-# MITxPro-Week8-Eyes
+# MITxPro - Week 8 Eyes Exercise
 ### Exercise:
 
 Add a second "eye" element and have that element follow the mouse position on the screen using the mouse events.
